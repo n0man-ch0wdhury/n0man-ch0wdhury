@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 
 <!-- ![Metrics](https://metrics.lecoq.io/n0man-ch0wdhury?template=classic&base.indepth=false&config.timezone=Asia%2FDhaka)
 
+![](https://raw.githubusercontent.com/n0man-ch0wdhury/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/n0man-ch0wdhury/cf-stats/main/output/light_card.svg)
+
 ![my github activity graph](https://activity-graph.herokuapp.com/graph?username=n0man-ch0wdhury&bg_color=22272e&color=9BE8A8&line=9BE8A8&point=40C363&area=false&hide_border=true)
 
 -->
