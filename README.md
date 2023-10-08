@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ![](https://raw.githubusercontent.com/n0man-ch0wdhury/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/n0man-ch0wdhury/cf-stats/main/output/light_card.svg)
-![](https://tryhackme.com/badge/411992)
+![](https://tryhackme-badges.s3.amazonaws.com/darkspirit.png)
 
 ![Metrics](https://metrics.lecoq.io/n0man-ch0wdhury?template=classic&base.indepth=false&config.timezone=Asia%2FDhaka)
 
