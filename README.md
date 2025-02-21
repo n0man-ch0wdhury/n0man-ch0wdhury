@@ -1,47 +1,67 @@
-### Hi there, I'm Noman Chowdhury Munna 👋  
+# Noman Chowdhury Munna's Portfolio
 
-I'm a **competitive programmer**, **cybersecurity enthusiast**, and **web developer** based in Dhaka, Bangladesh. I regularly participate in **CTFs** and solve problems passionately on various online judges.  
+Welcome to my GitHub profile! 👋 I'm Noman Chowdhury Munna, a passionate software engineer with a strong foundation in **problem-solving**, **backend development**, and **competitive programming**. I’m aiming to build scalable, efficient, and impactful software solutions.
+
+## About Me
+
+- 🎓 **Bachelor of Science in Computer Science and Engineering** from **Green University of Bangladesh**.
+- 🖥️ **Backend Developer** with experience in **Spring Boot**, **Java**, **Python**, and **RESTful APIs**.
+- 🌐 **Frontend** skills using **ReactJS**, **NextJS**, **HTML**, **CSS**, and **JavaScript**.
+- 🚀 Enthusiast in **data structures and algorithms** with over 1800+ problems solved across competitive programming platforms.
+- 🔍 Currently exploring **system design** and **distributed systems** for scalable and high-performance applications.
+
+## Skills
+
+- **Programming Languages**: C/C++, Java, Python, JavaScript
+- **Backend**: Spring Boot, RESTful APIs, PostgreSQL, MySQL
+- **Frontend**: ReactJS, NextJS, HTML, CSS, Bootstrap
+- **Tools**: Docker, Postman, Git, GitHub
+- **Operating Systems**: Linux (Manjaro), Windows
+- **Concepts**: Data Structures, Algorithms, OOP, System Design
+
+## Projects
+
+### 1. **AI-Powered Healthcare Platform** *(In Progress)*
+- **Technologies**: Spring Boot, Next.js, PostgreSQL, AI
+- **Description**: Developing an AI-powered platform to assist doctors with patient management, telemedicine, and medical records. Integrating AI for smarter decision-making.
+
+### 2. **Multi-Vendor Blogging CMS**
+- **Technologies**: PHP, MySQL, HTML, CSS, JavaScript, Bootstrap
+- **Description**: A dynamic blogging platform that allows multiple vendors to create and manage blog posts. Includes user authentication and content management.
+
+## Competitive Programming
+
+- 🎯 **Solved 1800+ problems** on platforms like **Codeforces** and **CodeChef**.
+- 🏅 **Codeforces Specialist** (1422) and **CodeChef 2-Star** (1442).
+- 📅 **4-time ICPC Dhaka Regional Contestant** (2021-2024).
+- 🏆 **Champion** at **GUB IDPC 2022**, **1st Runner-up** at **GUB IDPC 2024**.
+
+## Experience
+
+### Web Developer Intern
+- **Battery Low Interactive** (May 2024 - June 2024)
+- Worked on an e-commerce platform, integrated Firebase authentication, and implemented API integrations for data collection.
+
+### Mentor
+- **Green University of Bangladesh**
+- Taught structured programming and basic data structures and algorithms.
+
+### Problem Setter
+- **GUB Intra-Department Junior Programming Contest**
+
+## Research Publications
+
+- **Optimizing Carboxymethyl Cellulose (CMC) Production: A Metaheuristic Algorithm Approach**  
+  Authors: Prof. Dr. Md. Saiful Azad, Saurav Chandra Das, Noman Chowdhury Munna, Zahid Hasan Mozumder
+
+## Contact
+
+- 📧 **Email**: noman007.cse@gmail.com
+- 🌍 **Location**: Dhaka, Bangladesh
+- 📱 **Phone**: +880-1763185527
+
+Feel free to explore my repositories and connect with me for collaborations or discussions. 🚀
 
 ---
 
-### 🔭 What I'm Currently Working On  
-- Building my expertise in **Backend Development**.  
-- Exploring **Spring Boot** and enhancing my **Django** skills.  
-
----
-
-### 🌱 What I'm Learning  
-- Advanced backend technologies like **Spring Boot** and **API design**.  
-- Machine learning integrations with **TensorFlow/Keras**.  
-
----
-
-### 💬 Ask Me About  
-- Problem solving and algorithmic challenges.  
-- Cybersecurity and CTFs.  
-- Backend development and API design.  
-
----
-
-### 📊 My Stats  
-![GitHub followers](https://img.shields.io/github/followers/n0man-ch0wdhury?label=Follow&style=social)  
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=n0man-ch0wdhury)  
-
-#### Codeforces Stats  
-![Codeforces Stats](https://raw.githubusercontent.com/n0man-ch0wdhury/cf-stats/main/output/light_card.svg#gh-dark-mode-only)  
-![Codeforces Stats](https://raw.githubusercontent.com/n0man-ch0wdhury/cf-stats/main/output/light_card.svg)  
-
-#### TryHackMe Badge  
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/darkspirit.png)  
-
-#### GitHub Activity Graph  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=n0man-ch0wdhury&bg_color=22272e&color=9BE8A8&line=9BE8A8&point=40C363&area=false&hide_border=true)  
-
----
-
-### ✍️ Random Dev Quote  
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
-
----
-
-Feel free to explore my repositories, and don’t hesitate to reach out if you’d like to collaborate or have any questions. 😊  
+> "The best way to predict the future is to invent it." - Alan Kay
