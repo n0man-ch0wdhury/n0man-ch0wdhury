@@ -1,67 +1,80 @@
-# Noman Chowdhury Munna's Portfolio
+# Hi there, I'm Noman Chowdhury Munna 👋
 
-Welcome to my GitHub profile! 👋 I'm Noman Chowdhury Munna, a passionate software engineer with a strong foundation in **problem-solving**, **backend development**, and **competitive programming**. I’m aiming to build scalable, efficient, and impactful software solutions.
+🚀 **Backend Developer | Problem Solver | AI & Algorithm Enthusiast**  
+📍 Mirpur, Dhaka, Bangladesh  
 
-## About Me
-
-- 🎓 **Bachelor of Science in Computer Science and Engineering** from **Green University of Bangladesh**.
-- 🖥️ **Backend Developer** with experience in **Spring Boot**, **Java**, **Python**, and **RESTful APIs**.
-- 🌐 **Frontend** skills using **ReactJS**, **NextJS**, **HTML**, **CSS**, and **JavaScript**.
-- 🚀 Enthusiast in **data structures and algorithms** with over 1800+ problems solved across competitive programming platforms.
-- 🔍 Currently exploring **system design** and **distributed systems** for scalable and high-performance applications.
-
-## Skills
-
-- **Programming Languages**: C/C++, Java, Python, JavaScript
-- **Backend**: Spring Boot, RESTful APIs, PostgreSQL, MySQL
-- **Frontend**: ReactJS, NextJS, HTML, CSS, Bootstrap
-- **Tools**: Docker, Postman, Git, GitHub
-- **Operating Systems**: Linux (Manjaro), Windows
-- **Concepts**: Data Structures, Algorithms, OOP, System Design
-
-## Projects
-
-### 1. **AI-Powered Healthcare Platform** *(In Progress)*
-- **Technologies**: Spring Boot, Next.js, PostgreSQL, AI
-- **Description**: Developing an AI-powered platform to assist doctors with patient management, telemedicine, and medical records. Integrating AI for smarter decision-making.
-
-### 2. **Multi-Vendor Blogging CMS**
-- **Technologies**: PHP, MySQL, HTML, CSS, JavaScript, Bootstrap
-- **Description**: A dynamic blogging platform that allows multiple vendors to create and manage blog posts. Includes user authentication and content management.
-
-## Competitive Programming
-
-- 🎯 **Solved 1800+ problems** on platforms like **Codeforces** and **CodeChef**.
-- 🏅 **Codeforces Specialist** (1422) and **CodeChef 2-Star** (1442).
-- 📅 **4-time ICPC Dhaka Regional Contestant** (2021-2024).
-- 🏆 **Champion** at **GUB IDPC 2022**, **1st Runner-up** at **GUB IDPC 2024**.
-
-## Experience
-
-### Web Developer Intern
-- **Battery Low Interactive** (May 2024 - June 2024)
-- Worked on an e-commerce platform, integrated Firebase authentication, and implemented API integrations for data collection.
-
-### Mentor
-- **Green University of Bangladesh**
-- Taught structured programming and basic data structures and algorithms.
-
-### Problem Setter
-- **GUB Intra-Department Junior Programming Contest**
-
-## Research Publications
-
-- **Optimizing Carboxymethyl Cellulose (CMC) Production: A Metaheuristic Algorithm Approach**  
-  Authors: Prof. Dr. Md. Saiful Azad, Saurav Chandra Das, Noman Chowdhury Munna, Zahid Hasan Mozumder
-
-## Contact
-
-- 📧 **Email**: noman007.cse@gmail.com
-- 🌍 **Location**: Dhaka, Bangladesh
-- 📱 **Phone**: +880-1763185527
-
-Feel free to explore my repositories and connect with me for collaborations or discussions. 🚀
+[![Portfolio](https://img.shields.io/badge/Portfolio-n0man--ch0wdhury.vercel.app-blue?style=flat&logo=vercel)](https://n0man-ch0wdhury.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-n0man--ch0wdhury-black?style=flat&logo=github)](https://github.com/n0man-ch0wdhury)
+[![Email](https://img.shields.io/badge/Email-noman007.cse%40gmail.com-red?style=flat&logo=gmail)](mailto:noman007.cse@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/n0man-ch0wdhury)
 
 ---
 
-> "The best way to predict the future is to invent it." - Alan Kay
+## 👨‍💻 About Me
+I’m a passionate **Backend Developer** and **Competitive Programmer** with a strong foundation in **algorithms, data structures, and software engineering**.  
+I love building **scalable applications**, tuning **machine learning models**, and **optimizing complex processes**.  
+With 1800+ solved problems and 140+ contests under my belt, problem-solving is second nature to me.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:**  
+`Java` `Golang` `C++` `Python` `JavaScript` `Bash`
+
+**Frameworks & Libraries:**  
+`Django` `Spring Boot` `Spring MVC` `React.js` `Next.js`
+
+**Databases:**  
+`MySQL` `PostgreSQL`
+
+**Dev Tools:**  
+`Git` `Docker` `Vite` `Maven` `Postman` `VirtualBox` `VMware` `WSL` `Linux`
+
+**Core Skills:**  
+`Problem Solving` `OOP` `Design Patterns` `Data Structures` `Networking` `Debugging`
+
+---
+
+## 💼 Experience
+
+**Junior Software Engineer (Backend)** – *Barikoi Technologies Ltd.*  
+*May 2025 – Present*  
+- Enhanced **spatial data accuracy** by identifying missing entries in datasets.  
+- Fine-tuned **OCR models** for extracting text from scanned bank documents.  
+- Improved **deep learning models** for detecting building polygons from aerial imagery.  
+
+**Mentor** – *Green University of Bangladesh*  
+*2022 – 2023*  
+- Guided students in **Structured Programming** and **Data Structures**.
+
+**Problem Setter** – *GUB Intra-Department Junior Programming Contest* (2022)  
+
+---
+
+## 🚀 Projects
+
+- **AI-Powered Healthcare Platform** *(In Progress)* – AI-driven patient management, medical records, and telemedicine. *(Spring Boot, Next.js, PostgreSQL)*  
+- **Expense Tracker** – Personal expense management backend *(Django, Python)*  
+- **CMC-Optimizer (Thesis Project)** – Optimized **Carboxymethyl Cellulose** production using **metaheuristic algorithms (SCA, PSO)** in Python with visualizations.  
+- **To-Do Application** – Real-time task manager *(Golang + React.js)*  
+
+---
+
+## 🏆 Competitive Programming Highlights
+
+- **Solved**: 1800+ problems | **Contests**: 140+  
+- **Codeforces**: Specialist (1422) | **CodeChef**: 2★ (1442)  
+- **ICPC Dhaka Regional**: 4× Contestant (2021–2024)  
+- **Champion** – GUB IDPC 2022  
+- Multiple podium finishes at **IUPCs** and **CSE Carnivals**
+
+---
+
+## 📄 Research & Publications
+**Optimizing Carboxymethyl Cellulose (CMC) Production: A Metaheuristic Algorithm Approach**  
+Co-authors: Prof. Dr. Md. Saiful Azad, Saurav Chandra Das, Noman Chowdhury Munna, Zahid Hasan Mozumder  
+
+---
+
+💬 **Let’s connect** – I’m always open to discussing backend development, algorithms, or new challenges!  
