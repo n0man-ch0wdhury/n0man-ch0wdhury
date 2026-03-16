@@ -39,7 +39,7 @@ With 1800+ solved problems and 140+ contests under my belt, problem-solving is s
 ## 💼 Experience
 
 **Junior Software Engineer (Backend)** – *Barikoi Technologies Ltd.*  
-*May 2025 – Present*  
+*April 2025 – Present*  
 - Enhanced **spatial data accuracy** by identifying missing entries in datasets.  
 - Fine-tuned **OCR models** for extracting text from scanned bank documents.  
 - Improved **deep learning models** for detecting building polygons from aerial imagery.  
@@ -54,7 +54,7 @@ With 1800+ solved problems and 140+ contests under my belt, problem-solving is s
 
 ## 🚀 Projects
 
-- **AI-Powered Healthcare Platform** *(In Progress)* – AI-driven patient management, medical records, and telemedicine. *(Spring Boot, Next.js, PostgreSQL)*  
+- **Ed-Tech Startup** *(In Progress)* – Building AI-driven Ed-Tech startup *(FastAPI, PostgreSQL, Flutter)*  
 - **Expense Tracker** – Personal expense management backend *(Django, Python)*  
 - **CMC-Optimizer (Thesis Project)** – Optimized **Carboxymethyl Cellulose** production using **metaheuristic algorithms (SCA, PSO)** in Python with visualizations.  
 - **To-Do Application** – Real-time task manager *(Golang + React.js)*  
