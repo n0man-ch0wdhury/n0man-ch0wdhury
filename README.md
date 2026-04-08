@@ -1,7 +1,7 @@
 # Hi there, I'm Noman Chowdhury Munna 👋
 
-🚀 **Backend Developer | Problem Solver | AI & Algorithm Enthusiast**  
-📍 Mirpur, Dhaka, Bangladesh  
+🚀 **Backend Engineer | Distributed Systems Builder | Algorithmic Thinker**  
+📍 Dhaka, Bangladesh  
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-n0man--ch0wdhury.vercel.app-blue?style=flat&logo=vercel)](https://n0man-ch0wdhury.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-n0man--ch0wdhury-black?style=flat&logo=github)](https://github.com/n0man-ch0wdhury)
@@ -11,70 +11,135 @@
 ---
 
 ## 👨‍💻 About Me
-I’m a passionate **Backend Developer** and **Competitive Programmer** with a strong foundation in **algorithms, data structures, and software engineering**.  
-I love building **scalable applications**, tuning **machine learning models**, and **optimizing complex processes**.  
-With 1800+ solved problems and 140+ contests under my belt, problem-solving is second nature to me.
+
+I build **high-performance backend systems** that handle real-world scale — millions of records, heavy pipelines, and latency-sensitive applications.
+
+- ⚡ Processing **8.7M+ records** in production pipelines  
+- 🚀 Reduced scraping time to **30%** using async systems  
+- 🧠 Optimizing ML pipelines (OCR + geospatial detection)  
+- 🏗 Designing systems that scale without breaking  
 
 ---
 
 ## 🛠 Tech Stack
 
 **Languages:**  
-`Java` `Golang` `C++` `Python` `JavaScript` `Bash`
+`Python` `Java` `Golang` `C++` `JavaScript` `Bash`
 
-**Frameworks & Libraries:**  
-`Django` `Spring Boot` `Spring MVC` `React.js` `Next.js`
+**Backend:**  
+`FastAPI` `Django` `Spring Boot`
+
+**Frontend (if needed):**  
+`React.js` `Next.js`
 
 **Databases:**  
-`MySQL` `PostgreSQL`
+`PostgreSQL` `PostGIS` `MySQL` `MongoDB` `Redis`
 
-**Dev Tools:**  
-`Git` `Docker` `Vite` `Maven` `Postman` `VirtualBox` `VMware` `WSL` `Linux`
-
-**Core Skills:**  
-`Problem Solving` `OOP` `Design Patterns` `Data Structures` `Networking` `Debugging`
+**DevOps & Tools:**  
+`Docker` `NGINX` `CI/CD` `GitHub Actions`  
+`RabbitMQ` `Prometheus` `Grafana`  
+`Selenium` `Playwright` `Linux`
 
 ---
 
 ## 💼 Experience
 
 **Junior Software Engineer (Backend)** – *Barikoi Technologies Ltd.*  
-*April 2025 – Present*  
-- Enhanced **spatial data accuracy** by identifying missing entries in datasets.  
-- Fine-tuned **OCR models** for extracting text from scanned bank documents.  
-- Improved **deep learning models** for detecting building polygons from aerial imagery.  
+📅 May 2025 – Present  
 
-**Mentor** – *Green University of Bangladesh*  
-*2022 – 2023*  
-- Guided students in **Structured Programming** and **Data Structures**.
-
-**Problem Setter** – *GUB Intra-Department Junior Programming Contest* (2022)  
+- Built **high-throughput image pipelines** for millions of geospatial images  
+- Re-architected scraping system → **70% faster processing**  
+- Designed pipelines handling **8.7M+ records** for ML workflows  
+- Improved OCR accuracy for noisy financial documents  
+- Reduced inference time by **50%** in aerial building detection  
 
 ---
 
 ## 🚀 Projects
 
-- **Ed-Tech Startup** *(In Progress)* – Building AI-driven Ed-Tech startup *(FastAPI, PostgreSQL, Flutter)*  
-- **Expense Tracker** – Personal expense management backend *(Django, Python)*  
-- **CMC-Optimizer (Thesis Project)** – Optimized **Carboxymethyl Cellulose** production using **metaheuristic algorithms (SCA, PSO)** in Python with visualizations.  
-- **To-Do Application** – Real-time task manager *(Golang + React.js)*  
+### 🏥 AI-Powered Healthcare Platform *(In Progress)*
+- `Spring Boot` `Next.js` `PostgreSQL`
+- Patient management, records, telemedicine
+
+### 🎓 beShera – Ed-Tech Platform
+- `FastAPI` `RabbitMQ`
+- Newsfeed, exams, digital library
+- Implemented **RBAC + async notifications**
+
+### 💰 Expense Tracker
+- `Django`
+- Auth + full CRUD APIs
+
+### ⚗️ CMC-Optimizer (Thesis)
+- `Python` `Pandas` `Matplotlib`
+- Optimization using **SCA & PSO**
 
 ---
 
-## 🏆 Competitive Programming Highlights
+## 🏆 Achievements
 
-- **Solved**: 1800+ problems | **Contests**: 140+  
-- **Codeforces**: Specialist (1422) | **CodeChef**: 2★ (1442)  
-- **ICPC Dhaka Regional**: 4× Contestant (2021–2024)  
-- **Champion** – GUB IDPC 2022  
-- Multiple podium finishes at **IUPCs** and **CSE Carnivals**
+### 💻 Online Coding Platforms
+- Solved **1800+ problems** and participated in **140+ contests**
+- **Codeforces:** Specialist (1422)  
+- **CodeChef:** 2★ (1442)
 
 ---
 
-## 📄 Research & Publications
+### 🏁 ICPC & NCPC
+- **4× ICPC Dhaka Regional Contestant** (2021, 2022, 2023, 2024)  
+- **NCPC 2024** Participant  
+
+---
+
+### 🏫 Inter-University Contests
+- Contestant at:
+  - RUET IUPC 2022  
+  - BUET IUPC 2022  
+  - SEC IUJPC 2022  
+  - CUET IUPC 2024  
+
+---
+
+### 🎓 University Competitions
+- 🥇 Champion — GUB IDPC 2021  
+- 🥇 Champion — GUB IDPC 2022  
+- 🥈 1st Runner-up — GUB IDPC 2024  
+- 🥉 2nd Runner-up — GUB CSE Carnival 2024  
+
+---
+
+### 🔐 Cybersecurity Competitions
+- 🏅 5th — BUET CTF 2023  
+- 🏅 10th — National Cyber Drill 2021  
+- 🏅 11th — University Cyber Drill 2022  
+- 🏅 7th — RIOT Center Flag Hunt 2022  
+- 🏅 21st — LeetCon 2023 (Onsite, MIST)  
+- 🧠 **TryHackMe:** Top 3% *(darkspirit)*  
+
+---
+
+### 📄 Research Publications
 **Optimizing Carboxymethyl Cellulose (CMC) Production: A Metaheuristic Algorithm Approach**  
-Co-authors: Prof. Dr. Md. Saiful Azad, Saurav Chandra Das, Noman Chowdhury Munna, Zahid Hasan Mozumder  
+- Authors: Prof. Dr. Md. Saiful Azad, Saurav Chandra Das, Noman Chowdhury Munna, Zahid Hasan Mozumder  
 
 ---
 
-💬 **Let’s connect** – I’m always open to discussing backend development, algorithms, or new challenges!  
+## 📄 Research
+
+**Optimizing Carboxymethyl Cellulose (CMC) Production: A Metaheuristic Algorithm Approach**
+
+- Applied **SCA & PSO** for industrial optimization  
+- Focused on efficiency + simulation modeling  
+
+---
+
+## ⚡ Philosophy
+
+> Build systems.  
+> Scale them.  
+> Break them.  
+> Fix them better.
+
+---
+
+💬 Open to backend roles, system design problems, and building things that actually matter.
