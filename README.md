@@ -1,6 +1,6 @@
 # Hi there, I'm Noman Chowdhury Munna 👋
 
-🚀 **Backend Engineer | Distributed Systems Builder | Algorithmic Thinker**  
+🚀 **Software Engineer | Backend | Machine Learning | Java - Python | Microservice | 4xICPC | Independent Security Researcher**  
 📍 Dhaka, Bangladesh  
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-n0man--ch0wdhury.vercel.app-blue?style=flat&logo=vercel)](https://n0man-ch0wdhury.vercel.app)
