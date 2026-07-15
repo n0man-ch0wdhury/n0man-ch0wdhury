@@ -1,145 +1,104 @@
-# Hi there, I'm Noman Chowdhury Munna 👋
+# Noman Chowdhury Munna 🚀
 
-🚀 **Software Engineer | Backend | Machine Learning | Java - Python | Microservice | 4xICPC | Independent Security Researcher**  
+**Software Engineer**  
 📍 Dhaka, Bangladesh  
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-n0man--ch0wdhury.vercel.app-blue?style=flat&logo=vercel)](https://n0man-ch0wdhury.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-n0man--ch0wdhury-black?style=flat&logo=github)](https://github.com/n0man-ch0wdhury)
-[![Email](https://img.shields.io/badge/Email-noman007.cse%40gmail.com-red?style=flat&logo=gmail)](mailto:noman007.cse@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/n0man-ch0wdhury)
+📧 [noman007.cse@gmail.com](mailto:noman007.cse@gmail.com) | 📱 [+880-1763185527](tel:+8801763185527)  
+🔗 [LinkedIn](https://linkedin.com/in/n0man-ch0wdhury) | [GitHub](https://github.com/n0man-ch0wdhury) | [Portfolio Website](https://n0man-ch0wdhury.github.io/) | [Resume](https://drive.google.com/file/d/1lp-_YfeXKDw_O2mfkluvDPfjIRfEI4Wv/view)
 
 ---
 
 ## 👨‍💻 About Me
 
-I build **high-performance backend systems** that handle real-world scale — millions of records, heavy pipelines, and latency-sensitive applications.
-
-- ⚡ Processing **8.7M+ records** in production pipelines  
-- 🚀 Reduced scraping time to **30%** using async systems  
-- 🧠 Optimizing ML pipelines (OCR + geospatial detection)  
-- 🏗 Designing systems that scale without breaking  
-
----
-
-## 🛠 Tech Stack
-
-**Languages:**  
-`Python` `Java` `Golang` `C++` `JavaScript` `Bash`
-
-**Backend:**  
-`FastAPI` `Django` `Spring Boot`
-
-**Frontend (if needed):**  
-`React.js` `Next.js`
-
-**Databases:**  
-`PostgreSQL` `PostGIS` `MySQL` `MongoDB` `Redis`
-
-**DevOps & Tools:**  
-`Docker` `NGINX` `CI/CD` `GitHub Actions`  
-`RabbitMQ` `Prometheus` `Grafana`  
-`Selenium` `Playwright` `Linux`
+Results-driven Software Engineer with 2+ years of experience building scalable backend systems, robust API architectures, and AI/ML-powered solutions. Expert at optimizing high-throughput data workflows, fine-tuning ML pipelines, and auditing system security. Proven track record in competitive programming (ICPC contestant) and cybersecurity CTF challenges.
 
 ---
 
 ## 💼 Experience
 
-**Junior Software Engineer (Backend)** – *Barikoi Technologies Ltd.*  
-📅 May 2025 – Present  
+### **Software Engineer** | **DataCrata**
+*May 2026 – Present | Dhaka, Bangladesh*
+* Engineered core backend systems and robust database architectures for e-commerce platforms.
+* Integrated complex third-party logistics and payment gateways (Daraz Dashboard APIs, RedX delivery, and SSLCommerz).
+* Audited endpoints to identify and secure vulnerabilities like race conditions, IDOR, XSS, and SSRF.
 
-- Built **high-throughput image pipelines** for millions of geospatial images  
-- Re-architected scraping system → **70% faster processing**  
-- Designed pipelines handling **8.7M+ records** for ML workflows  
-- Improved OCR accuracy for noisy financial documents  
-- Reduced inference time by **50%** in aerial building detection  
+### **Junior Software Engineer (Backend)** | **Barikoi Technologies Ltd.**
+*May 2025 – April 2026 | Dhaka, Bangladesh*
+* Engineered high-throughput image delivery pipelines for the StreetView platform ([ThirdEye360](https://streetview.bmapsbd.com/)), enabling low-latency access to millions of geospatial images.
+* Re-architected a geospatial scraping system with FastAPI, Redis, and Selenium (async background jobs), reducing scraping time to **30%**.
+* Built scalable data ingestion pipelines processing **8.7M+ records** for machine learning models.
+* Optimized OCR preprocessing and validation logic, improving recognition accuracy of sensitive financial data.
+* Refined deep learning pipelines for aerial building polygon detection, reducing inference time to **50%**.
+
+---
+
+## 🛠 Skills
+
+* **Languages:** Python, Java, Golang, C++, JavaScript, Bash
+* **Frameworks & Libraries:** FastAPI, Spring Boot, Spring MVC, Django, React.js, Next.js, PlayWright, Selenium
+* **Databases & Caching:** PostgreSQL, PostGIS, Redis, MySQL, MongoDB
+* **DevOps & Tools:** Docker, CI/CD, GitHub Actions, NGINX, Cloudflare, RabbitMQ, Prometheus, Grafana, Linux (WSL), Git, QGIS
+* **Core Concepts:** Data Structures & Algorithms, OOP, Design Patterns, Networking, Debugging & Security Auditing
 
 ---
 
 ## 🚀 Projects
 
-### 🏥 AI-Powered Healthcare Platform *(In Progress)*
-- `Spring Boot` `Next.js` `PostgreSQL`
-- Patient management, records, telemedicine
+### 🏥 **AI-Powered Healthcare Platform** (In Progress)
+* *Stack:* Spring Boot, Next.js, PostgreSQL
+* *Description:* Building an AI-driven healthcare system featuring patient management, electronic medical records, and telemedicine integrations.
 
-### 🎓 beShera – Ed-Tech Platform
-- `FastAPI` `RabbitMQ`
-- Newsfeed, exams, digital library
-- Implemented **RBAC + async notifications**
+### 🎓 **beShera: Ed-Tech Platform** (Completed)
+* *Stack:* FastAPI, RabbitMQ, PostgreSQL
+* *Description:* Developed a scalable ed-tech platform supporting student-teacher connections, examination systems, and digital libraries. Implemented Role-Based Access Control (RBAC) and asynchronous notification workers.
+* *Link:* [beshera.com](https://beshera.com)
 
-### 💰 Expense Tracker
-- `Django`
-- Auth + full CRUD APIs
-
-### ⚗️ CMC-Optimizer (Thesis)
-- `Python` `Pandas` `Matplotlib`
-- Optimization using **SCA & PSO**
+### ⚗️ **CMC-Optimizer (Thesis Project)** (Completed)
+* *Stack:* Python, SCA & PSO Algorithms, Pandas, Matplotlib
+* *Description:* Built a simulation system that runs Sine Cosine and Particle Swarm Optimization metaheuristic algorithms to optimize industrial Carboxymethyl Cellulose (CMC) production.
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Problem Solving
 
-### 💻 Online Coding Platforms
-- Solved **1800+ problems** and participated in **140+ contests**
-- **Codeforces:** Specialist (1422)  
-- **CodeChef:** 2★ (1442)
+### **Competitive Programming**
+* **ICPC Dhaka Regional Contestant** (2021, 2022, 2023, 2024) | [ICPC Profile](https://icpc.global/ICPCID/CMUDLX8CMYG2)
+* **Codeforces:** Specialist (Peak Rating: **1422**, Handle: [root_of_hell](https://codeforces.com/profile/root_of_hell))
+* **CodeChef:** 2-Star (Peak Rating: **1442**, Handle: [n0manch0wdhury](https://www.codechef.com/users/n0manch0wdhury))
+* **Problem Solving:** Solved **1800+** algorithmic problems; competed in **140+** online programming contests.
+* **Local Contests:**
+  * GUB IDPC **Champion** (2022) & **1st Runner-up** (2024)
+  * **2nd Runner-up** at Green University CSE Carnival 2024
+  * Participated in IUPCs/NCPCs at RUET, BUET, CUET, SEC, and JU.
 
----
-
-### 🏁 ICPC & NCPC
-- **4× ICPC Dhaka Regional Contestant** (2021, 2022, 2023, 2024)  
-- **NCPC 2024** Participant  
-
----
-
-### 🏫 Inter-University Contests
-- Contestant at:
-  - RUET IUPC 2022  
-  - BUET IUPC 2022  
-  - SEC IUJPC 2022  
-  - CUET IUPC 2024  
+### **Cybersecurity (CTF)**
+* **5th Place** — BUET CSE FEST CTF 2023
+* **7th Place** — Flag Hunt 2022
+* **9th Place** — National University Cyber Drill 2021
+* **10th Place** — National University Cyber Drill 2022
+* **TryHackMe:** Top **3%** globally (Handle: *darkspirit*)
 
 ---
 
-### 🎓 University Competitions
-- 🥇 Champion — GUB IDPC 2021  
-- 🥇 Champion — GUB IDPC 2022  
-- 🥈 1st Runner-up — GUB IDPC 2024  
-- 🥉 2nd Runner-up — GUB CSE Carnival 2024  
-
----
-
-### 🔐 Cybersecurity Competitions
-- 🏅 5th — BUET CTF 2023  
-- 🏅 10th — National Cyber Drill 2021  
-- 🏅 11th — University Cyber Drill 2022  
-- 🏅 7th — RIOT Center Flag Hunt 2022  
-- 🏅 21st — LeetCon 2023 (Onsite, MIST)  
-- 🧠 **TryHackMe:** Top 3% *(darkspirit)*  
-
----
-
-### 📄 Research Publications
-**Optimizing Carboxymethyl Cellulose (CMC) Production: A Metaheuristic Algorithm Approach**  
-- Authors: Prof. Dr. Md. Saiful Azad, Saurav Chandra Das, Noman Chowdhury Munna, Zahid Hasan Mozumder  
-
----
-
-## 📄 Research
+## 📄 Publications & Research
 
 **Optimizing Carboxymethyl Cellulose (CMC) Production: A Metaheuristic Algorithm Approach**
-
-- Applied **SCA & PSO** for industrial optimization  
-- Focused on efficiency + simulation modeling  
-
----
-
-## ⚡ Philosophy
-
-> Build systems.  
-> Scale them.  
-> Break them.  
-> Fix them better.
+* Published in the proceedings of the *27th International Conference on Computer and Information Technology (ICCIT 2024)*.
+* Refined and optimized industrial production parameters by deploying SCA (Sine Cosine Algorithm) and PSO (Particle Swarm Optimization) metaheuristic algorithms.
+* *Link:* [IEEE Xplore Publication](https://ieeexplore.ieee.org/document/11022351/)
 
 ---
 
-💬 Open to backend roles, system design problems, and building things that actually matter.
+## 🎓 Education
+
+**BSc in Computer Science and Engineering**  
+*Green University of Bangladesh* | 2020 – 2024 (Dhaka, Bangladesh)
+
+---
+
+## ✉️ Get in Touch
+
+I'm always open to discussing new engineering challenges, backend roles, research collaborations, or system design. Feel free to reach out!
+
+* **Email:** [noman007.cse@gmail.com](mailto:noman007.cse@gmail.com)
+* **Phone:** [+880-1763185527](tel:+8801763185527)
+* **LinkedIn:** [linkedin.com/in/n0man-ch0wdhury](https://linkedin.com/in/n0man-ch0wdhury)
