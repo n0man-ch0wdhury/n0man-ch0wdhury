@@ -76,6 +76,9 @@
 - 🎓 **[beShera: Ed-Tech Platform](https://beshera.com)** — *FastAPI, Redis, RabbitMQ, PostgreSQL, GitHub Actions*  
   Scalable Ed-Tech platform featuring student-teacher connections, examination system, digital library, RBAC, Redis caching, async notifications via RabbitMQ, and CI/CD via GitHub Actions.
 
+- 🛒 **[FK IT Solution: E-Commerce & Inventory](https://fkitsolution.com)** — *FastAPI, React, PostgreSQL*  
+  High-performance E-Commerce platform with integrated real-time inventory tracking, order management workflows, query performance optimization, and database connection pooling.
+
 - 🤖 **[SocialPilot](https://github.com/n0man-ch0wdhury)** — *Python, Redis, Docker, GitHub Actions CI/CD*  
   Automated scheduling & social media automation platform with Redis task queues, rate-limiting, and automated GitHub Workflows CI/CD integration.
 
