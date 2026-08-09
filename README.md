@@ -90,12 +90,12 @@
 ### 🏆 Achievements & Metrics
 
 ```
-🏆 Competitive Programming                  🛡️ Cybersecurity (CTF)
-├─ ICPC Dhaka Regional (2021, 22, 23, 24)   ├─ 5th Place — BUET CSE FEST CTF 2023
-├─ Codeforces Specialist (Peak: 1422)        ├─ 7th Place — Flag Hunt 2022
-├─ CodeChef 2-Star (Peak: 1442)              ├─ 9th Place — NU Cyber Drill 2021
-├─ 1800+ Algorithmic Problems Solved         ├─ 10th Place — NU Cyber Drill 2022
-└─ GUB IDPC Champion (2022)                  └─ TryHackMe Top 3% Globally
+🏆 Competitive Programming                   🛡️ Cybersecurity (CTF)
+ ├─ ICPC Dhaka Regional (2021, 22, 23, 24)    ├─ 5th Place — BUET CSE FEST CTF 2023
+ ├─ Codeforces Specialist (Peak: 1422)        ├─ 7th Place — Flag Hunt 2022
+ ├─ CodeChef 2-Star (Peak: 1442)              ├─ 9th Place — NU Cyber Drill 2021
+ ├─ 1800+ Algorithmic Problems Solved         ├─ 10th Place — NU Cyber Drill 2022
+ └─ GUB IDPC Champion (2022)                  └─ TryHackMe Top 3% Globally
 ```
 
 ---
