@@ -17,14 +17,6 @@
 
 ---
 
-```
-  ____        _        _                    __   ____                   
- |  _ \  __ _| |_ __ _| |__   __ _ ___  ___ \ \ / /  |_|  _ \           
- | | | |/ _` | __/ _` | '_ \ / _` / __|/ _ \ \ V /| | | | | |          
- | |_| | (_| | || (_| | |_) | (_| \__ \  __/  | | | | | |_| |          
- |____/ \__,_|\__\__,_|_.__/ \__,_|___/\___|  |_| |_|_|____/           
-```
-
 *Results-driven Software Engineer with 2+ years of experience building scalable backend systems, high-throughput geospatial data pipelines, and AI/ML solutions. Proven track record in competitive programming (ICPC contestant) and cybersecurity CTFs.*
 
 </div>
@@ -127,8 +119,15 @@ Published in *Proceedings of the 27th International Conference on Computer and I
 
 <div align="center">
 
-📫 **Let's Connect!**  
-[Portfolio](https://n0man-ch0wdhury.github.io/) • [LinkedIn](https://linkedin.com/in/n0man-ch0wdhury) • [GitHub](https://github.com/n0man-ch0wdhury) • [Facebook](https://facebook.com/NomanChowdhuryMunna) • [Twitter](https://twitter.com/n0man_ch0wdhury) • [Medium](https://n0man-ch0wdhury.medium.com/) • [Email](mailto:noman007.cse@gmail.com)
+### 📫 Let's Connect!
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://n0man-ch0wdhury.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/n0man-ch0wdhury)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/n0man-ch0wdhury)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/NomanChowdhuryMunna)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/n0man_ch0wdhury)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://n0man-ch0wdhury.medium.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noman007.cse@gmail.com)
 
 </div>
 
