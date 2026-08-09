@@ -6,9 +6,12 @@
 📍 **Dhaka, Bangladesh**  
 📧 [noman007.cse@gmail.com](mailto:noman007.cse@gmail.com) | 📱 [+880-1763185527](tel:+8801763185527)  
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio_Website-181717?style=for-the-badge&logo=github&logoColor=white)](https://n0man-ch0wdhury.github.io/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://n0man-ch0wdhury.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/n0man-ch0wdhury)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/n0man-ch0wdhury)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/NomanChowdhuryMunna)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/n0man_ch0wdhury)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://n0man-ch0wdhury.medium.com/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/root_of_hell)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-22252F?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/)
 
@@ -125,7 +128,7 @@ Published in *Proceedings of the 27th International Conference on Computer and I
 <div align="center">
 
 📫 **Let's Connect!**  
-[Website](https://n0man-ch0wdhury.github.io/) • [LinkedIn](https://linkedin.com/in/n0man-ch0wdhury) • [Email](mailto:noman007.cse@gmail.com)
+[Portfolio](https://n0man-ch0wdhury.github.io/) • [LinkedIn](https://linkedin.com/in/n0man-ch0wdhury) • [GitHub](https://github.com/n0man-ch0wdhury) • [Facebook](https://facebook.com/NomanChowdhuryMunna) • [Twitter](https://twitter.com/n0man_ch0wdhury) • [Medium](https://n0man-ch0wdhury.medium.com/) • [Email](mailto:noman007.cse@gmail.com)
 
 </div>
 
