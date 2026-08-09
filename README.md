@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Noman Chowdhury Munna 👋 🚀
-### **Software Engineer | Backend & Systems Architect | Security Researcher**
+### **Software Engineer | Backend | DevOps | Security Researcher**
 
 📍 **Dhaka, Bangladesh**  
 📧 [noman007.cse@gmail.com](mailto:noman007.cse@gmail.com) | 📱 [+880-1763185527](tel:+8801763185527)  
