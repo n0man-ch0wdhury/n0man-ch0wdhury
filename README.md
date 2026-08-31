@@ -17,7 +17,7 @@
 
 ---
 
-*Results-driven Software Engineer with 2+ years of experience building scalable backend systems, high-throughput geospatial data pipelines, and AI/ML solutions. Proven track record in competitive programming (ICPC contestant) and cybersecurity CTFs.*
+*Results-driven Software Engineer with 2+ years of experience building scalable backend systems and AI/ML-powered solutions. Expertise in FastAPI, Spring Boot, PostgreSQL, Redis, and geospatial/ML pipelines. Proven track record in competitive programming (ICPC contestant) and cybersecurity CTFs.*
 
 </div>
 
@@ -36,17 +36,17 @@
 
 #### **Software Engineer** — *DataCrata*
 `May 2026 – Present` | *Dhaka, Bangladesh*
-- 🛒 Engineered core backend systems and robust database structures for **DataCrata E-Commerce** and proprietary backends.
-- 💳 Integrated third-party logistics and payment gateways including **Daraz Dashboard APIs**, **RedX delivery**, and **SSLCommerz**.
-- 🛡️ Audited endpoints and resolved critical security vulnerabilities including **race conditions**, **IDOR**, **XSS**, and **SSRF**.
+- 🛒 Engineered systems and database structures for **[DataCrata E-Commerce](https://playground-frontend-production-d999.up.railway.app/)** and proprietary DataCrata backends.
+- 💳 Integrated third-party logistics and payment gateways including **Daraz Dashboard APIs**, **RedX delivery**, and **SSLCommerz** payment systems.
+- 🛡️ Audited and secured endpoints, resolving critical vulnerabilities such as **race conditions**, **IDOR** (Insecure Direct Object References), **XSS** (Cross-Site Scripting), and **SSRF** (Server-Side Request Forgery).
 
 #### **Junior Software Engineer (Backend)** — *Barikoi Technologies Ltd.*
-`May 2025 – April 2026` | *Dhaka, Bangladesh*
-- 🌐 Enabled low-latency access to millions of geospatial images on the large-scale **StreetView platform ([ThirdEye360](https://streetview.bmapsbd.com/))** via high-throughput image delivery pipelines.
-- ⚡ Re-architected geospatial scraping system using **FastAPI**, **Redis**, and **Selenium** with async background workers, reducing scraping time to **30%**.
-- 📊 Built scalable data pipelines ingesting **8.7M+ records** for machine learning models.
-- 📄 Fine-tuned **OCR models** and optimized validation logic to improve recognition accuracy for sensitive financial documents.
-- 🛰️ Refined aerial deep learning pipelines for building polygon detection, reducing inference time to **50%**.
+`Jan 2025 – Apr 2026` | *Dhaka, Bangladesh*
+- 🌐 Enabled low-latency access to millions of geospatial images on the large-scale StreetView platform (**[ThirdEye360](https://streetview.bmapsbd.com/)**) by engineering and optimizing high-throughput image delivery pipelines.
+- ⚡ Improved processing efficiency, reduced scraping time to **30%**, and enhanced data accuracy of a geospatial scraping system by re-architecting it using **FastAPI**, **Redis**, and **Selenium** with asynchronous background jobs.
+- 📊 Ensured reliable data ingestion for ML models by building scalable data pipelines processing **8.7M+ records** through optimized scraping, cleaning, and labeling workflows.
+- 📄 Increased recognition accuracy of sensitive financial data in noisy documents by fine-tuning **OCR models** and optimizing preprocessing and validation logic.
+- 🛰️ Enhanced spatial precision and mapping quality of aerial imagery by refining deep learning pipelines for building polygon detection using advanced post-processing techniques, reducing inference time to **50%**.
 
 ---
 
