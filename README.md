@@ -4,7 +4,7 @@
 ### **Software Engineer | Backend | DevOps | Security Researcher**
 
 📍 **Dhaka, Bangladesh**  
-📧 [noman007.cse@gmail.com](mailto:noman007.cse@gmail.com) | 🌐 [hellonoman.dev](https://hellonoman.dev/)
+📧 [noman007.cse@gmail.com](mailto:noman007.cse@gmail.com) | 📱 +880-1763185527 | 🌐 [hellonoman.dev](https://hellonoman.dev/)
 
 [![Website](https://img.shields.io/badge/🌐_Website-181717?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hellonoman.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/n0man-ch0wdhury)
@@ -26,7 +26,7 @@
 ### ⚡ Quick Overview
 - 🔭 **Currently Working On:** Engineering backend architectures at **DataCrata** and building **SocialPilot** SaaS.
 - 💼 **Former Experience:** Junior Backend Software Engineer at **Barikoi Technologies Ltd.** (Geospatial StreetView ThirdEye360, scraping engines, data pipelines processing 8.7M+ records).
-- 🎓 **Education:** BSc in Computer Science and Engineering from **Green University of Bangladesh** (2020 – 2024).
+- 🎓 **Education:** BSc in Computer Science & Engineering from **Green University of Bangladesh** (January 2020 – June 2024).
 - 🏆 **Competitive Programming:** **ICPC Dhaka Regional** contestant ×4 (2021–2024), Codeforces **Specialist** (1422), **1,800+** problems solved.
 - 🛡️ **Cybersecurity:** Top **3%** on TryHackMe, 5th place BUET CSE FEST CTF 2023.
 
@@ -36,27 +36,29 @@
 
 #### **Software Engineer** — *DataCrata*
 `May 2026 – Present` | *Dhaka, Bangladesh*
-- 🛒 Designed and built backend services and database schemas for core e-commerce platforms, supporting **200 orders/day** and **1,000 active merchants/users**; built React.js frontend features end-to-end (e.g. dashboard, checkout flow).
-- 💳 Integrated **Daraz Dashboard APIs**, **RedX delivery**, and **SSLCommerz** payment systems, automating order sync, shipment creation, and payment reconciliation.
+- 🛒 Designed and built REST APIs and database schemas for a core e-commerce platform, supporting **200 orders/day** and **1,000 active merchants/users**; built React.js frontend features end-to-end from API to UI (e.g. dashboard, checkout flow).
+- 💳 Integrated **Daraz Dashboard APIs**, **RedX delivery**, and **SSLCommerz** payments, automating order sync, shipments, and reconciliation.
 - 🛡️ Audited **55 production endpoints** and patched critical vulnerabilities (**IDOR**, **XSS**, **SSRF**, **race conditions**), preventing unauthorized data exposure and duplicate billing.
-- ☁️ Wrote unit tests, participated in code reviews, maintained technical documentation, and managed deployments on **AWS (EC2, S3, RDS)**.
+- ☁️ Wrote unit tests, took part in code reviews, maintained technical docs, and deployed on **AWS (EC2, S3, RDS)**.
 
 #### **Junior Software Engineer (Backend)** — *Barikoi Technologies Ltd.*
-`Jan 2025 – Apr 2026` | *Dhaka, Bangladesh*
+`January 2025 – April 2026` | *Dhaka, Bangladesh*
 - 🌐 Built and optimized high-throughput image delivery pipelines for the **[ThirdEye360](https://streetview.bmapsbd.com/)** StreetView platform, enabling low-latency access to millions of geospatial images.
-- ⚡ Re-architected geospatial scraping system using **FastAPI**, **Redis**, **Selenium**, and async worker queues, cutting turnaround time by **70%**.
-- 📊 Engineered resilient data pipelines processing **8.7M+ records** for downstream ML model training workflows.
-- 📄 Fine-tuned deep-learning and **OCR pipelines** for document extraction and aerial-imagery building detection, boosting precision and inference speed.
+- ⚡ Re-architected a geospatial scraper with **FastAPI**, **Redis**, **Selenium**, and async worker queues, cutting turnaround by **70%**.
+- 📊 Engineered data pipelines processing **8.7M+ records** for model training, and fine-tuned deep-learning and **OCR pipelines** for document extraction and aerial-imagery building detection, boosting precision and inference speed.
 
 ---
 
 ### 🚀 Featured Projects
 
 - 🤖 **[SocialPilot: Multi-Tenant Social Media Automation SaaS](https://socialpilot.tech)** — *FastAPI, Celery, RabbitMQ, PostgreSQL, Next.js*  
-  Built and run a live, multi-tenant SaaS automating Facebook, Instagram, and WhatsApp messaging, comments, posts, and ads. Features an AI reply-drafting pipeline with human approval queues & pluggable AI adapters (OpenAI, Gemini, Claude), plus an admin dashboard for Meta token health and integration monitoring.
+  Built and run a live, multi-tenant SaaS automating Facebook, Instagram, and WhatsApp messaging, comments, posts, and ads. Designed an AI reply-drafting pipeline with a human approval queue & pluggable AI adapters (OpenAI, Gemini, Claude). Implemented Meta OAuth 2.0 connect flows and an admin dashboard with token health monitoring and audit logs.
+
+- 📰 **News Portal: Full-Stack News Platform** — *Next.js 16, React 19, FastAPI, PostgreSQL*  
+  Built a Next.js/React frontend and a layered FastAPI backend with Redis caching and Celery workers. Implemented JWT auth with Google/Facebook OAuth 2.0 and staff TOTP 2FA, plus hybrid semantic search combining PostgreSQL full-text with pgvector embeddings (HNSW).
 
 - 🎓 **[beShera: Ed-Tech Platform](https://beshera.com)** — *FastAPI, Next.js, RabbitMQ, PostgreSQL, LangChain*  
-  Scalable Ed-Tech platform featuring student-teacher networking, LMS courses, digital library, RBAC, RabbitMQ notification worker, pytest unit tests, and RAG-based AI personalized learning suggestions using LangChain and vector databases.
+  Scalable Ed-Tech platform featuring student-teacher networking, LMS courses, digital library, RBAC, RabbitMQ notification worker, pytest unit tests, and RAG-based AI personalized learning suggestions using LangChain and a vector database.
 
 - 🛒 **[FK IT Solution: E-Commerce & Inventory](https://fkitsolution.com)** — *FastAPI, React, PostgreSQL*  
   High-performance E-Commerce platform with integrated real-time inventory tracking, order management workflows, query performance optimization, database indexing, and connection pooling.
@@ -75,11 +77,11 @@
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openid&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
-| **Backend & Frontend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37B24D?style=flat-square&logo=celery&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) |
-| **Databases & Caching** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Typesense](https://img.shields.io/badge/Typesense-D45B00?style=flat-square&logo=typesense&logoColor=white) |
-| **DevOps & Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| **AppSec & Testing** | ![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white) ![VAPT](https://img.shields.io/badge/VAPT_&_Security-E0234E?style=flat-square&logo=shield&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openid&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
+| **Backend & Frontend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/DRF-092E20?style=flat-square&logo=django&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37B24D?style=flat-square&logo=celery&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) |
+| **Auth & Security** | ![OAuth2](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white) ![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white) ![RBAC](https://img.shields.io/badge/RBAC-E0234E?style=flat-square&logo=shield&logoColor=white) ![VAPT](https://img.shields.io/badge/VAPT-E0234E?style=flat-square&logo=shield&logoColor=white) |
+| **Databases & AI** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Typesense](https://img.shields.io/badge/Typesense-D45B00?style=flat-square&logo=typesense&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-5A0FC8?style=flat-square&logo=openai&logoColor=white) |
+| **DevOps & Testing** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) |
 
 </div>
 
@@ -133,5 +135,3 @@ Published in *Proceedings of the 27th International Conference on Computer and I
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noman007.cse@gmail.com)
 
 </div>
-
-
